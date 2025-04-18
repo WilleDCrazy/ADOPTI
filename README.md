@@ -173,7 +173,7 @@ Step 18/1000 | Gen:  Closed OpenAI | Loss: 2.4046
 </pre>
 
 </details>
-
+*Yes if you run GPT with that prompt it will generate the tokens "Closed OpenAI"
 
 ---
 
