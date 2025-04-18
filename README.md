@@ -8,9 +8,8 @@ The implementation is intentionally compact and research‑oriented; it is **not
 hardened for production use**.
 
 ---
-
+```
 ## Requirements
-
 ```bash
 pip install torch transformers
 ```
